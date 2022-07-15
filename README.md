@@ -15,7 +15,7 @@ In this repo we have covered:
 
 ### Prerequisites
 
-The things you need before installing the website source code.
+The things you need before following along or installing the source code.
 
 - You need to have basic knowledge of C++ Syntax
 - And you need to have concept of Arrays in C++.
