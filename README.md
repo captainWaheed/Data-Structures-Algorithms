@@ -27,6 +27,14 @@ The things you need before following along or installing the source code.
 - ![Dev C++](https://img.shields.io/badge/dev-C++-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## How You Can Contribute to This Project
+- ⭐ this Repo
+- Fork the repo.
+- Make your addition  by creating a text file with your GitHub username(Hira-Amir.txt) and describe yourself in three words
+- Click on the green button (Compare and Pull request)
+- Click on Send Pull Request
+- Wait for you PR to be reviewed and merge approval
+
 ## Feedback
 
 If you have any feedback, please reach out to us at abdulwaheed@ieee.org
