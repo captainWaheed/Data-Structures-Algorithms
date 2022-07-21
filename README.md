@@ -24,6 +24,7 @@ The things you need before following along or installing the source code.
 ## Built with
 
 - ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![Dev C++](https://img.shields.io/badge/dev-C++-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Feedback
