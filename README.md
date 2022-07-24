@@ -30,7 +30,7 @@ The things you need before following along or installing the source code.
 ## How You Can Contribute to This Project
 - ⭐ this Repo
 - Fork the repo.
-- Make your addition  by creating a text file with your GitHub username(Hira-Amir.txt) and describe yourself in three words
+- Make your addition by creating your file 
 - Click on the green button (Compare and Pull request)
 - Click on Send Pull Request
 - Wait for you PR to be reviewed and merge approval
